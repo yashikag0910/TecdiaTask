@@ -1,7 +1,6 @@
  Installation Instructions
 1. Clone the Repository
-git clone https://github.com/<your-username>/video-reconstruction.git
-cd video-reconstruction
+
 2. Install Dependencies
 Ensure you have Python 3.8+ installed. Then install the following required libraries 
 opencv-python
